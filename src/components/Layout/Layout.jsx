@@ -43,7 +43,7 @@ function Layout({ children }) {
           <Grid lg={8} md={8} sm={12} xs={12} item>
             <Box sx={HEADER_CONTAINER_STYLES_SX}>
               <Typography sx={HEADER_TITLE_STYLES_SX} variant="h1">
-                Integrations
+                Integrationsss
               </Typography>
               <Typography sx={HEADER_CONTENT_STYLES_SX}>
                 We plan to connect you with your favorite software. If there’s an app you’d love to
